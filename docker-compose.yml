@@ -1,0 +1,10 @@
+version: '3'
+services:
+  tensorFlow: 
+    image: jupyter/tensorflow-notebook:abdb27a6dfbb
+    ports:
+      - "8888:8888"
+      - "6006:6006"
+    volumes:
+      - .:/home/jovyan/work
+    command: bash -c  "conda install -c conda-forge librosa -y && jupyter notebook"
