@@ -10,7 +10,7 @@ Depending on OS and preference run one of the following startup scripts.
 
 
 # Run compose
-`docker-compose up'
+`docker-compose up`
 
 
 
