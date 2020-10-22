@@ -7,4 +7,4 @@ services:
       - "6006:6006"
     volumes:
       - .:/home/jovyan/work
-    command: bash -c  "conda install -c conda-forge librosa -y && jupyter notebook"
+    command: bash -c  "jupyter notebook"

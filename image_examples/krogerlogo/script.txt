@@ -1,0 +1,1 @@
+python neural_style.py --content_img kroger1.jpeg --style_imgs kandinsky.jpg --max_iterations 500 --verbose
