@@ -1,5 +1,9 @@
 # audioStyleTransfer
 
+This example is light enough to be able to run in the provided container on any OS.
+
+The results are not very meaningful, but it is a cool toy that anyone can pick up and use. 
+
 
 
 ## Start Container
