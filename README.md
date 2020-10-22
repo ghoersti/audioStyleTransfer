@@ -1,6 +1,7 @@
 # audioStyleTransfer
 
 
+
 ## Start Container
 Depending on OS and preference run one of the following startup scripts.
 * This will pull the correct version of tensorflow from docker hub.
@@ -22,7 +23,6 @@ to
 `http://localhost:8888/?token=a55206c3a1c38ca33035959600b4131883c96b11aea3b543`
 
 paste in browser and open `neural-style-audio-tf.ipynb`
-
 
 
 
