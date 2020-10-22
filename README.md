@@ -25,6 +25,16 @@ to
 paste in browser and open `neural-style-audio-tf.ipynb`
 
 
+### References
+- Original paper on style transfer:
+[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
+- [Neural style TensorFlow implementation](https://github.com/anishathalye/neural-style)
+- Publications on texture generation with random convolutions:
+ - [Extreme Style Machines](https://nucl.ai/blog/extreme-style-machines/)
+ - [Texture Synthesis Using Shallow Convolutional Networks with Random Filters](https://arxiv.org/abs/1606.00021)
+ - [A Powerful Generative Model Using Random Weights for the Deep Image Representation](https://arxiv.org/pdf/1606.04801)
+
+
 
 
 
