@@ -39,6 +39,6 @@ paste in browser and open `neural-style-audio-tf.ipynb`
   - [A Powerful Generative Model Using Random Weights for the Deep Image Representation](https://arxiv.org/pdf/1606.04801)
 
 
-
+minor change reach outnits important to collab
 
 
